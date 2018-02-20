@@ -1,0 +1,47 @@
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Release\PlayGen.exe.config
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Release\PlayGen.exe
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Release\PlayGen.pdb
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Release\taglib-sharp.dll
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Release\PlayGen.StartForm.resources
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Release\PlayGen.Properties.Resources.resources
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Release\PlayGen.UIControl.resources
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Release\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Release\PlayGen.exe
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Release\PlayGen.pdb
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Release\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Release\PlayGen.DescriptionControl.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\PlayGen.exe.config
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.exe
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.pdb
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\PlayGen.exe
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\PlayGen.pdb
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\System.IO.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\System.Net.Http.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\System.Runtime.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\System.Threading.Tasks.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\System.IO.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\System.Runtime.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\System.Threading.Tasks.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\System.Net.Http.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.csproj.App.config
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.DescriptionControl.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.StartForm.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.LoadForm.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.Properties.Resources.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.Settings.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.UIControl.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Release\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\ZetaLongPaths.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Release\ZetaLongPaths.pdb

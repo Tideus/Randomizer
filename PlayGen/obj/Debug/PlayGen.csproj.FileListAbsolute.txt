@@ -1,0 +1,197 @@
+c:\users\michael\documents\visual studio 2015\Projects\PlayGen\PlayGen\bin\Debug\PlayGen.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\PlayGen\PlayGen\bin\Debug\PlayGen.exe
+c:\users\michael\documents\visual studio 2015\Projects\PlayGen\PlayGen\bin\Debug\PlayGen.pdb
+c:\users\michael\documents\visual studio 2015\Projects\PlayGen\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\PlayGen\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\PlayGen\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\PlayGen\PlayGen\obj\Debug\PlayGen.exe
+c:\users\michael\documents\visual studio 2015\Projects\PlayGen\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\PlayGen\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\MTideus\Desktop\PlayGen\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\MTideus\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\MTideus\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\MTideus\Desktop\PlayGen\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\MTideus\Desktop\PlayGen\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\MTideus\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\MTideus\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\MTideus\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\MTideus\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\PlayGen\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\Michael\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\PlayGen\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\PlayGen\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\Michael\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\Michael\Desktop\PlayGen\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\PlayGen — опыты\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\bin\Debug\taglib-sharp.dll
+C:\Users\MTideus\Desktop\PlayGen — опыты\PlayGen\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Debug\PlayGen.UIControl.resources
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Debug\PlayGen.DescriptionControl.resources
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\obj\Debug\PlayGen.LoadForm.resources
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\PlayGen — опыты — копия\PlayGen\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.DescriptionControl.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.LoadForm.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.UIControl.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.Settings.resources
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\System.IO.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\System.Net.Http.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\System.Runtime.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\System.IO.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\System.Runtime.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\System.Threading.Tasks.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\System.Net.Http.xml
+C:\Users\Michael\Desktop\Randomizer\PlayGen\obj\Debug\PlayGen.csproj.App.config
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\ZetaLongPaths.dll
+C:\Users\Michael\Desktop\Randomizer\PlayGen\bin\Debug\ZetaLongPaths.pdb
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.csproj.App.config
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.DescriptionControl.resources
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.LoadForm.resources
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.Settings.resources
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.UIControl.resources
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\System.IO.dll
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\System.Net.Http.dll
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\System.Runtime.dll
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\ZetaLongPaths.dll
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\System.IO.xml
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\System.Runtime.xml
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\System.Threading.Tasks.xml
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\System.Net.Http.xml
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\ZetaLongPaths.pdb
+C:\Users\Michael\Desktop\Randomizer WIN XP\PlayGen\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.DescriptionControl.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.LoadForm.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.Settings.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.UIControl.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\taglib-sharp.dll
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.DescriptionControl.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.LoadForm.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.Settings.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.UIControl.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\taglib-sharp.dll
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.DescriptionControl.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.Settings.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.UIControl.resources
+C:\Users\Raskol90\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\PlayGen.exe.config
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\PlayGen.exe
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\PlayGen.pdb
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.DescriptionControl.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.StartForm.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.Properties.Resources.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.Settings.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.UIControl.resources
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\taglib-sharp.dll
+C:\Users\Michael\Desktop\Randomizer WIN 10 — копия\PlayGen\bin\Debug\policy.2.0.taglib-sharp.config
+E:\Разобрать\Randomizer WIN 10 — копия\PlayGen\bin\Debug\PlayGen.exe.config
+E:\Разобрать\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.exe
+E:\Разобрать\Randomizer WIN 10 — копия\PlayGen\obj\Debug\PlayGen.pdb
